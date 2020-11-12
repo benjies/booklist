@@ -8,6 +8,6 @@ Features:
 
 ## Book List to keep track of all your books
 
-A dynamic book list that saves in your locale storage.
+A dynamic book list that saves in your local storage.
 
-View a live demo [here]() hosted with Netlify.
+View a live demo [here](https://confident-colden-8afaea.netlify.app) hosted with Netlify.
